@@ -1,4 +1,6 @@
-  - repo: https://github.com/Madushan-rgb/gitleak.git
-    rev: v1.0.1
+-   repo: https://github.com/Madushan-rgb/gitleak.git
+    rev: v2.3.0
     hooks:
-      - id: trailing-whitespace
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace

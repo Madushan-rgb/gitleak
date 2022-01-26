@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "install": "^0.13.0",
+    "pip": "^0.0.1",
     "pre-commit": "^1.2.2",
     "react": "17.0.2",
     "react-native": "0.67.1"
