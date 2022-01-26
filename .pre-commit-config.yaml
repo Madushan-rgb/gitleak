@@ -1,4 +1,4 @@
   - repo: https://github.com/Madushan-rgb/gitleak.git
     rev: v8.2.0
     hooks:
-      - id: gitleak.git
+      - id: trailing-whitespace
